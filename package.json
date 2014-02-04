@@ -1,0 +1,15 @@
+{
+  "name": "url2json",
+  "version": "0.0.1",
+  "description": "Converts a url to json",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": "./index.js",
+  "author": "Joe Warren <joe.warren@holidayextras.com>",
+  "license": "MIT",
+  "dependencies": {
+    "qs": "0.6.6"
+  }
+}

@@ -9,6 +9,10 @@
   "bin": "./index.js",
   "author": "Joe Warren <joe.warren@holidayextras.com>",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:Joezo/node-url2json.git"
+  },
   "dependencies": {
     "qs": "0.6.6"
   }

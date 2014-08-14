@@ -1,6 +1,6 @@
 {
   "name": "url2json",
-  "version": "0.0.2",
+  "version": "1.0.0",
   "description": "Converts a url to json",
   "main": "index.js",
   "scripts": {
